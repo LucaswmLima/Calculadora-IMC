@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-<p>Projeto que consiste em um aplicativo mobile que executa cálculos de IMC.</p>
+<p>Aplicativo desenvolvido em Flutter para realização de cálculos de IMC.</p>
 
 ---
 
