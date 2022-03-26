@@ -1,5 +1,3 @@
-# calculadora-IMC
- Aplicativo mobile que executa cálculos de IMC
 <h1 align="center">
     calculadora-IMC
 </h1>
