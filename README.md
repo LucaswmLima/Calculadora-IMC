@@ -10,8 +10,8 @@
 
 ## ⚙️ Funcionalidades
 
-- Realiza cálculo do IMC
-- Interface simples
+- Realiza cálculo do IMC;
+- Interface simples;
 - Fácil de utilizar.
 
 ---
