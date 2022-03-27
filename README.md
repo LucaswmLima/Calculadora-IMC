@@ -1,10 +1,10 @@
 <h1 align="center">
-    calculadora-IMC
+    Calculadora de IMC
 </h1>
 
 ## 💻 Sobre o projeto
 
-<p>Projeto que consiste em um aplicativo mobile que executa cálculos de IMC.</p>
+<p>Aplicativo desenvolvido em Flutter para realização de cálculos de IMC.</p>
 
 ---
 
@@ -19,9 +19,9 @@
 ## 📷 Imagens do projeto
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Imagem - Traffic Light Car" src="assets/Imagem-Funcionamento-1.jpg" width="400px">
+  <img alt="NextLevelWeek" title="Imagem - Traffic Light Car" src="assets/screen1.png" width="400px">
 
-  <img alt="NextLevelWeek" title="Imagem - Traffic Light Car" src="assets/Imagem-Funcionamento-2.jpg" width="400px">
+  <img alt="NextLevelWeek" title="Imagem - Traffic Light Car" src="assets/screen2.png" width="400px">
 </p>
 
 ---
