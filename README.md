@@ -28,7 +28,7 @@
 
 ## 🚀 Como executar o projeto
 
-Instalar o APK e executar em um aparelho Android ou iOS.
+Instalar e executar o APK.
 
 ---
 
