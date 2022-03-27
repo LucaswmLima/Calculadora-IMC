@@ -1,5 +1,5 @@
 <h1 align="center">
-    calculadora-IMC
+    Calculadora de IMC
 </h1>
 
 ## 💻 Sobre o projeto
